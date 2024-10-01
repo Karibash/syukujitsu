@@ -1,0 +1,21 @@
+{
+  "name": "syukujitsu",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "holiday",
+    "japanese",
+    "syukujitsu"
+  ],
+  "homepage": "https://github.com/Karibash/syukujitsu",
+  "bugs": {
+    "url": "https://github.com/Karibash/syukujitsu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karibash/syukujitsu.git"
+  },
+  "license": "MIT",
+  "author": "Karibash",
+  "packageManager": "pnpm@9.11.0"
+}
